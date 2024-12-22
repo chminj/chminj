@@ -22,15 +22,15 @@ const chminj = {
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>My page</h1>
 
 
-<p> Read me page </br>
-    -준비중-
-</p>
-
 
 <h3>My latest posts</h3>
 <ul>
   <li>
-    <a href="#"><b>Semi project (?)</b></a><br/>
-    <i>dddd</i>
-</li>
+    <a href="https://github.com/chminj/bookstore-workspace"><b>SEMI PROJECT : BOOKOREA</b></a><br/>
+    <i>중고도서 거래 플랫폼 내 도서 검색 페이지 담당</i>
+  </li>
+  <li>
+    <a href="https://github.com/chminj/workus"><b>FINAL PROJECT : WORKUS</b></a><br/>
+    <i>그룹웨어 사이트 내 근태/결재 페이지 담당</i>
+  </li>
 </ul>
